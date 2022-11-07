@@ -6,7 +6,7 @@ Exploration of existing LDES implementations and ideas for the thesis.
 
 #### Specification
 
-[Writing Linked Data Event Streams in LDP Basic Containers](https://woutslabbinck.github.io/LDESinLDP/index.html#SES)
+[Writing Linked Data Event Streams in LDP Basic Containers](https://woutslabbinck.github.io/LDESinLDP/index.html)
 
 - 13 October 2022
 
